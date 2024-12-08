@@ -1,4 +1,4 @@
-# Portfolio Prototype
+# Math-Wonders AR App Web Prototype
 ## Info:
 - I created a web prototype for our thesis system
 - The web prototype contains all information about our AR Application
@@ -10,6 +10,6 @@ Check my prototype:
 ---
 Show Demo Here
 
-![prototype portfolio figma](https://github.com/user-attachments/assets/2a936d04-5d16-4104-91f9-bf20517cc67d)
+![math-wonders prototype figma](https://github.com/user-attachments/assets/db762b29-a025-4a8d-a52d-9e9ffc57dc5f)
 
 ---
